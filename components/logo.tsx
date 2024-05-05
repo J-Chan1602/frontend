@@ -22,7 +22,7 @@ export const Logo = () => {
           "text-lg text-neutral-700 pb-1 pt-2",
           headingFont.className,
         )}>
-            Taskify
+            Task Canvas
         </p>
       </div>
     </Link>
