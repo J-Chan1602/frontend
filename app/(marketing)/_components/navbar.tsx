@@ -17,7 +17,7 @@ export const Navbar = () =>{
                     
                     <Button size="sm" asChild>
                         <Link href="/sign-up">
-                            Get started with Task Canvas
+                            Get started with Agile Kanban Task Board
                         </Link>
                     </Button>
                 </div>

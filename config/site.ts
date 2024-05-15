@@ -1,4 +1,4 @@
 export const siteConfig = {
-    name: "Task Canvas",
+    name: " Agile Kanban Task Board",
     description: "Collaborate, manage projects, and reach new productivity peaks",
 };

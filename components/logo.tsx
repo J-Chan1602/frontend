@@ -22,7 +22,7 @@ export const Logo = () => {
           "text-lg text-neutral-700 pb-1 pt-2",
           headingFont.className,
         )}>
-            Task Canvas
+            Agile Kanban Task Board
         </p>
       </div>
     </Link>

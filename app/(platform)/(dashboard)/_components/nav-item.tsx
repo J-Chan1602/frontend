@@ -6,7 +6,7 @@ import Image from "next/image";
 
 import {
     Activity,
-    CreditCard,
+    // CreditCard,
     Layout,
     Settings
 } from "lucide-react"
